@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quiz app</string>
+    <string name="first">1.Name the nucleotides that make up our DNA.</string>
+    <string name="second">2.What are mitochondria and in which cells can they be found?</string>
+    <string name="third">3.Who is the artist behind the famous starry night painting?</string>
+    <string name="fourth">4.What is loss of water from plants to the atmosphere?</string>
+    <string name="fifth">5. State the importance of transpiration</string>
+    <string name="last">6. Name the part labelled one in the diagram below.</string>
+    <string name="hint">answer here</string>
+    <string name="vie">answer here</string>
+    <string name="ancient">Photosynthesis.</string>
+    <string name="uptown">Transpiration.</string>
+    <string name="pop">Respiration.</string>
+    <string name="jazz">Digestion.</string>
+    <string name="question">Biology Questions.</string>
+    <string name="Blue">Cooling the plant.</string>
+    <string name="Grey">Transport of mineral salts.</string>
+    <string name="Teal">Transport of water.</string>
+    <string name="congrats">Congratulations!</string>
+    <string name="submit">Submit</string>
+    <string name="redo">once again</string>
+    <string name="todo">TODO</string>
+</resources>
